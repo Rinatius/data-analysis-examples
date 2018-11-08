@@ -1,6 +1,6 @@
 ### Data analysis ###
 csv/
-data/
+data/*
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
