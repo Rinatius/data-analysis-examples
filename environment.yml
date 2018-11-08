@@ -1,0 +1,12 @@
+name: excel
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - pandas=0.23.4=py37h04863e7_0
+  - python=3.7.1=h0371630_3
+  - pip:
+    - chardet==3.0.4
+    - idna==2.7
+    - requests==2.20.0
+    - urllib3==1.24
